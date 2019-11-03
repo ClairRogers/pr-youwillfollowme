@@ -1,0 +1,26 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  background-color: black;
+  color: rgb(167, 0, 0);
+  font-size: 30px;
+}
+
+.fullview {
+  height: 100vh;
+  font-style: italic;
+}
+
+a {
+font-size:14px;
+text-align: center;
+color: #ffecec;
+}
+
+.whitetext {
+  color: #c2bdbd;
+}
+
+.smalltext {
+  font-size: 12px;
+}
+
